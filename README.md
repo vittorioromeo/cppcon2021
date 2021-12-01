@@ -7,5 +7,5 @@ Repository for my CppCon 2021 talks.
 
 * [Slides](https://github.com/SuperV1234/cppcon2021/blob/master/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=7Mfbpbyq6fs)
 
